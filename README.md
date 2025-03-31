@@ -10,7 +10,7 @@
 
    streamlit run Landing_Page.py
 
-4. virtual assistant will run on local network
+4. virtual assistant will run on local network:
 
    http://localhost:8501/
 
