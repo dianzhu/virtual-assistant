@@ -10,6 +10,8 @@
 
    streamlit run Landing_Page.py
 
-4. virtual assistant will run on local network: http://localhost:8501/
+4. virtual assistant will run on local network
 
-6. upload any csv, xlsx, or json file you want on the virtual assistant, then enter question on the chat box, then virtual assistant will output answer based on file uploaded
+   http://localhost:8501/
+
+5. upload any csv, xlsx, or json file you want on the virtual assistant, then enter question on the chat box, then virtual assistant will output answer based on file uploaded
