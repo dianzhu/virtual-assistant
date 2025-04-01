@@ -1,4 +1,4 @@
-# Virtual Assistant  - looks like a chatbot that uses Google Gemini model to read input and output answer based on file uploaded
+# Virtual Assistant  - looks like a chatbot that uses Google Gemini model reads input and outputs answer based on file uploaded
 
 1. enter your Google API key in the file .env for Google Gemini model
 
