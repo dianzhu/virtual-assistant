@@ -14,4 +14,4 @@
 
    http://localhost:8501/
 
-5. upload any csv, xlsx, or json file you want on the virtual assistant, then enter question on the chat box, then virtual assistant will output answer based on file uploaded
+5. Click the button "Go to Chatbot" on the first web page, then upload any csv, xlsx, or json file you want on the second web page, then enter question on the chat box, then virtual assistant will output answer based on file uploaded
